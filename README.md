@@ -2,9 +2,9 @@
 ## PacMen Repo
 <img src= "PacMan.png" width='300'/>
 
-<a href="http://arlenejuaton.github.io/PacMen-Exercise/">Repository</a>
+<a href="https://arlenejuaton.github.io/PacMen%20Exercise/PacMen.html">Repository</a>
 
-Click "Make One" button and a new pacman image will appear on the page. "Start" will move the Pacman image and bounce off any wall it hits.
+Click "Add Pacman" button and a new pacman image will appear on the page. "Start" will move the Pacman image and bounce off any wall it hits.
 
 # License
 
