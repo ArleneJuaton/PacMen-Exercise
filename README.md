@@ -11,8 +11,7 @@ Click "Add Pacman" button and a new pacman image will appear on the page. "Start
 ## Future Improvements
 1. Change Background color
 2. Add 'border' 
-3. Add other interactive maps
-4. Add 'input' buttons
+4. Add 'back' button to return to main page
 
 # License
 
