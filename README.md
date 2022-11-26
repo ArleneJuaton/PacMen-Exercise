@@ -8,6 +8,12 @@
 
 Click "Add Pacman" button and a new pacman image will appear on the page. "Start" will move the Pacman image and bounce off any wall it hits.
 
+## Future Improvements
+1. Change Background color
+2. Add 'border' 
+3. Add other interactive maps
+4. Add 'input' buttons
+
 # License
 
 ## MIT License
